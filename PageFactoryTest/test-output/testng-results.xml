@@ -2,23 +2,21 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Mega suite" duration-ms="33159" started-at="2020-04-27T22:15:34 CDT" finished-at="2020-04-27T22:16:08 CDT">
+  <suite name="Default suite" duration-ms="58849" started-at="2020-04-27T23:56:14 CDT" finished-at="2020-04-27T23:57:13 CDT">
     <groups>
     </groups>
-    <test name="Mega Bus" duration-ms="33159" started-at="2020-04-27T22:15:34 CDT" finished-at="2020-04-27T22:16:08 CDT">
+    <test name="Default test" duration-ms="58849" started-at="2020-04-27T23:56:14 CDT" finished-at="2020-04-27T23:57:13 CDT">
       <class name="factory.test.MegaBusTest">
-        <test-method status="PASS" signature="registrationPF(java.lang.String)[pri:0, instance:factory.test.MegaBusTest@35d176f7]" name="registrationPF" duration-ms="33078" started-at="2020-04-27T22:15:34 CDT" finished-at="2020-04-27T22:16:07 CDT">
+        <test-method status="PASS" signature="registrationPF(java.lang.String)[pri:0, instance:factory.test.MegaBusTest@578486a3]" name="registrationPF" duration-ms="58766" started-at="2020-04-27T23:56:14 CDT" finished-at="2020-04-27T23:57:13 CDT">
           <params>
             <param index="0">
-              <value>
-                <![CDATA[edge]]>
-              </value>
+              <value is-null="true"/>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- registrationPF -->
       </class> <!-- factory.test.MegaBusTest -->
-    </test> <!-- Mega Bus -->
-  </suite> <!-- Mega suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

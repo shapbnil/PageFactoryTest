@@ -45,6 +45,7 @@ public class MegaBusTest {
 		common.navigateUrl(driver,test);
 				
 		HomePage hp= new HomePage(driver);
+		common.clickObj(hp.NextTrip, "NextTrip", test);
 		common.clickObj(hp.ClickSingUp,"SingUp", test);
 		common.clickObj(hp.signup,"Signup", test);
 		

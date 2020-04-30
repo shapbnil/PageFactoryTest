@@ -13,6 +13,10 @@ public class HomePage {
 		PageFactory.initElements(driver, this);
 	}
 	
+	@FindBy(id ="bx-close-inside-1156777")
+	public WebElement NextTrip;
+	
+	
 	@FindBy(xpath = "//*[text()='Log in/Sign up']")
 	public WebElement ClickSingUp;
 
