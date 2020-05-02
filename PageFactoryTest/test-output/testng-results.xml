@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="58849" started-at="2020-04-27T23:56:14 CDT" finished-at="2020-04-27T23:57:13 CDT">
+  <suite name="Default suite" duration-ms="78914" started-at="2020-04-30T00:47:34 CDT" finished-at="2020-04-30T00:48:53 CDT">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="58849" started-at="2020-04-27T23:56:14 CDT" finished-at="2020-04-27T23:57:13 CDT">
+    <test name="Default test" duration-ms="78914" started-at="2020-04-30T00:47:34 CDT" finished-at="2020-04-30T00:48:53 CDT">
       <class name="factory.test.MegaBusTest">
-        <test-method status="PASS" signature="registrationPF(java.lang.String)[pri:0, instance:factory.test.MegaBusTest@578486a3]" name="registrationPF" duration-ms="58766" started-at="2020-04-27T23:56:14 CDT" finished-at="2020-04-27T23:57:13 CDT">
+        <test-method status="PASS" signature="registrationPF(java.lang.String)[pri:0, instance:factory.test.MegaBusTest@578486a3]" name="registrationPF" duration-ms="78839" started-at="2020-04-30T00:47:34 CDT" finished-at="2020-04-30T00:48:53 CDT">
           <params>
             <param index="0">
               <value is-null="true"/>
